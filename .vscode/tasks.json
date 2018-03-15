@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/HammingDistance/HammingDistance.csproj"
+                "${workspaceFolder}/CanWinNim/CanWinNim.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

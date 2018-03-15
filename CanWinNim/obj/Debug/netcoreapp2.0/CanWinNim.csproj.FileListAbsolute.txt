@@ -1,0 +1,10 @@
+D:\Proj\leetcode\CanWinNim\bin\Debug\netcoreapp2.0\CanWinNim.deps.json
+D:\Proj\leetcode\CanWinNim\bin\Debug\netcoreapp2.0\CanWinNim.runtimeconfig.json
+D:\Proj\leetcode\CanWinNim\bin\Debug\netcoreapp2.0\CanWinNim.runtimeconfig.dev.json
+D:\Proj\leetcode\CanWinNim\bin\Debug\netcoreapp2.0\CanWinNim.dll
+D:\Proj\leetcode\CanWinNim\bin\Debug\netcoreapp2.0\CanWinNim.pdb
+D:\Proj\leetcode\CanWinNim\obj\Debug\netcoreapp2.0\CanWinNim.csproj.CoreCompileInputs.cache
+D:\Proj\leetcode\CanWinNim\obj\Debug\netcoreapp2.0\CanWinNim.AssemblyInfoInputs.cache
+D:\Proj\leetcode\CanWinNim\obj\Debug\netcoreapp2.0\CanWinNim.AssemblyInfo.cs
+D:\Proj\leetcode\CanWinNim\obj\Debug\netcoreapp2.0\CanWinNim.dll
+D:\Proj\leetcode\CanWinNim\obj\Debug\netcoreapp2.0\CanWinNim.pdb
