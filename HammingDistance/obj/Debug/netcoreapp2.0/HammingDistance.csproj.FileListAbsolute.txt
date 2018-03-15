@@ -1,0 +1,10 @@
+D:\Proj\leetcode\HammingDistance\obj\Debug\netcoreapp2.0\HammingDistance.csproj.CoreCompileInputs.cache
+D:\Proj\leetcode\HammingDistance\obj\Debug\netcoreapp2.0\HammingDistance.AssemblyInfoInputs.cache
+D:\Proj\leetcode\HammingDistance\obj\Debug\netcoreapp2.0\HammingDistance.AssemblyInfo.cs
+D:\Proj\leetcode\HammingDistance\bin\Debug\netcoreapp2.0\HammingDistance.deps.json
+D:\Proj\leetcode\HammingDistance\bin\Debug\netcoreapp2.0\HammingDistance.runtimeconfig.json
+D:\Proj\leetcode\HammingDistance\bin\Debug\netcoreapp2.0\HammingDistance.runtimeconfig.dev.json
+D:\Proj\leetcode\HammingDistance\bin\Debug\netcoreapp2.0\HammingDistance.dll
+D:\Proj\leetcode\HammingDistance\bin\Debug\netcoreapp2.0\HammingDistance.pdb
+D:\Proj\leetcode\HammingDistance\obj\Debug\netcoreapp2.0\HammingDistance.dll
+D:\Proj\leetcode\HammingDistance\obj\Debug\netcoreapp2.0\HammingDistance.pdb
