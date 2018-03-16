@@ -33,7 +33,7 @@ namespace CanWinNim
         static void Main(string[] args)
         {
             Solution mySL = new Solution();
-            if(mySL.CanWinNim())
+            if(mySL.CanWinNim(3))
                 Console.WriteLine("True");
             else
             {

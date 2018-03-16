@@ -1,0 +1,10 @@
+D:\Proj\leetcode\JudgeCircle\obj\Debug\netcoreapp2.0\JudgeCircle.csproj.CoreCompileInputs.cache
+D:\Proj\leetcode\JudgeCircle\obj\Debug\netcoreapp2.0\JudgeCircle.AssemblyInfoInputs.cache
+D:\Proj\leetcode\JudgeCircle\obj\Debug\netcoreapp2.0\JudgeCircle.AssemblyInfo.cs
+D:\Proj\leetcode\JudgeCircle\bin\Debug\netcoreapp2.0\JudgeCircle.deps.json
+D:\Proj\leetcode\JudgeCircle\bin\Debug\netcoreapp2.0\JudgeCircle.runtimeconfig.json
+D:\Proj\leetcode\JudgeCircle\bin\Debug\netcoreapp2.0\JudgeCircle.runtimeconfig.dev.json
+D:\Proj\leetcode\JudgeCircle\bin\Debug\netcoreapp2.0\JudgeCircle.dll
+D:\Proj\leetcode\JudgeCircle\bin\Debug\netcoreapp2.0\JudgeCircle.pdb
+D:\Proj\leetcode\JudgeCircle\obj\Debug\netcoreapp2.0\JudgeCircle.dll
+D:\Proj\leetcode\JudgeCircle\obj\Debug\netcoreapp2.0\JudgeCircle.pdb
