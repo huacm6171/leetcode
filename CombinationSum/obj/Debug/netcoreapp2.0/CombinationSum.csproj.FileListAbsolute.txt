@@ -8,3 +8,13 @@ D:\Proj\leetcode\CombinationSum\bin\Debug\netcoreapp2.0\CombinationSum.dll
 D:\Proj\leetcode\CombinationSum\bin\Debug\netcoreapp2.0\CombinationSum.pdb
 D:\Proj\leetcode\CombinationSum\obj\Debug\netcoreapp2.0\CombinationSum.dll
 D:\Proj\leetcode\CombinationSum\obj\Debug\netcoreapp2.0\CombinationSum.pdb
+G:\MyProject\leetcode\leetcode\CombinationSum\bin\Debug\netcoreapp2.0\CombinationSum.deps.json
+G:\MyProject\leetcode\leetcode\CombinationSum\bin\Debug\netcoreapp2.0\CombinationSum.runtimeconfig.json
+G:\MyProject\leetcode\leetcode\CombinationSum\bin\Debug\netcoreapp2.0\CombinationSum.runtimeconfig.dev.json
+G:\MyProject\leetcode\leetcode\CombinationSum\bin\Debug\netcoreapp2.0\CombinationSum.dll
+G:\MyProject\leetcode\leetcode\CombinationSum\bin\Debug\netcoreapp2.0\CombinationSum.pdb
+G:\MyProject\leetcode\leetcode\CombinationSum\obj\Debug\netcoreapp2.0\CombinationSum.csproj.CoreCompileInputs.cache
+G:\MyProject\leetcode\leetcode\CombinationSum\obj\Debug\netcoreapp2.0\CombinationSum.AssemblyInfoInputs.cache
+G:\MyProject\leetcode\leetcode\CombinationSum\obj\Debug\netcoreapp2.0\CombinationSum.AssemblyInfo.cs
+G:\MyProject\leetcode\leetcode\CombinationSum\obj\Debug\netcoreapp2.0\CombinationSum.dll
+G:\MyProject\leetcode\leetcode\CombinationSum\obj\Debug\netcoreapp2.0\CombinationSum.pdb

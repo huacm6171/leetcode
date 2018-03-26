@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\MyProject\\leetcode\\leetcode\\CombinationSum\\CombinationSum.csproj",
-      "projectName": "CombinationSum",
-      "projectPath": "G:\\MyProject\\leetcode\\leetcode\\CombinationSum\\CombinationSum.csproj",
+      "projectUniqueName": "G:\\MyProject\\leetcode\\leetcode\\addbyList\\addbyList.csproj",
+      "projectName": "addbyList",
+      "projectPath": "G:\\MyProject\\leetcode\\leetcode\\addbyList\\addbyList.csproj",
       "packagesPath": "C:\\Users\\Lee\\.nuget\\packages\\",
-      "outputPath": "G:\\MyProject\\leetcode\\leetcode\\CombinationSum\\obj\\",
+      "outputPath": "G:\\MyProject\\leetcode\\leetcode\\addbyList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
