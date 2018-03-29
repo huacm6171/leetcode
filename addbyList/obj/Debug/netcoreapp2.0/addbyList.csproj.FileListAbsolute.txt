@@ -1,0 +1,10 @@
+G:\MyProject\leetcode\leetcode\addbyList\obj\Debug\netcoreapp2.0\addbyList.csproj.CoreCompileInputs.cache
+G:\MyProject\leetcode\leetcode\addbyList\obj\Debug\netcoreapp2.0\addbyList.AssemblyInfoInputs.cache
+G:\MyProject\leetcode\leetcode\addbyList\obj\Debug\netcoreapp2.0\addbyList.AssemblyInfo.cs
+G:\MyProject\leetcode\leetcode\addbyList\bin\Debug\netcoreapp2.0\addbyList.deps.json
+G:\MyProject\leetcode\leetcode\addbyList\bin\Debug\netcoreapp2.0\addbyList.runtimeconfig.json
+G:\MyProject\leetcode\leetcode\addbyList\bin\Debug\netcoreapp2.0\addbyList.runtimeconfig.dev.json
+G:\MyProject\leetcode\leetcode\addbyList\bin\Debug\netcoreapp2.0\addbyList.dll
+G:\MyProject\leetcode\leetcode\addbyList\bin\Debug\netcoreapp2.0\addbyList.pdb
+G:\MyProject\leetcode\leetcode\addbyList\obj\Debug\netcoreapp2.0\addbyList.dll
+G:\MyProject\leetcode\leetcode\addbyList\obj\Debug\netcoreapp2.0\addbyList.pdb
