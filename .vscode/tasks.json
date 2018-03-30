@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/addbyList/addbyList.csproj"
+                "${workspaceFolder}/MaxlenSubStr/MaxlenSubStr.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

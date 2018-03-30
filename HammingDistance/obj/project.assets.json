@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lee\\.nuget\\packages\\": {},
+    "C:\\Users\\Administrator.WIN7-1609091037\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "g:\\MyProject\\leetcode\\leetcode\\HammingDistance\\HammingDistance.csproj",
+      "projectUniqueName": "d:\\Proj\\leetcode\\HammingDistance\\HammingDistance.csproj",
       "projectName": "HammingDistance",
-      "projectPath": "g:\\MyProject\\leetcode\\leetcode\\HammingDistance\\HammingDistance.csproj",
-      "packagesPath": "C:\\Users\\Lee\\.nuget\\packages\\",
-      "outputPath": "g:\\MyProject\\leetcode\\leetcode\\HammingDistance\\obj\\",
+      "projectPath": "d:\\Proj\\leetcode\\HammingDistance\\HammingDistance.csproj",
+      "packagesPath": "C:\\Users\\Administrator.WIN7-1609091037\\.nuget\\packages\\",
+      "outputPath": "d:\\Proj\\leetcode\\HammingDistance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Lee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Administrator.WIN7-1609091037\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

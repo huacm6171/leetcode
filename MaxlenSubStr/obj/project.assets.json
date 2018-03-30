@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Proj\\leetcode\\CanWinNim\\CanWinNim.csproj",
-      "projectName": "CanWinNim",
-      "projectPath": "d:\\Proj\\leetcode\\CanWinNim\\CanWinNim.csproj",
+      "projectUniqueName": "D:\\Proj\\leetcode\\MaxlenSubStr\\MaxlenSubStr.csproj",
+      "projectName": "MaxlenSubStr",
+      "projectPath": "D:\\Proj\\leetcode\\MaxlenSubStr\\MaxlenSubStr.csproj",
       "packagesPath": "C:\\Users\\Administrator.WIN7-1609091037\\.nuget\\packages\\",
-      "outputPath": "d:\\Proj\\leetcode\\CanWinNim\\obj\\",
+      "outputPath": "D:\\Proj\\leetcode\\MaxlenSubStr\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
