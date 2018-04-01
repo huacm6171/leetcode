@@ -1,0 +1,10 @@
+D:\Proj\leetcode\MaxlenSubStr\obj\Debug\netcoreapp2.0\MaxlenSubStr.csproj.CoreCompileInputs.cache
+D:\Proj\leetcode\MaxlenSubStr\obj\Debug\netcoreapp2.0\MaxlenSubStr.AssemblyInfoInputs.cache
+D:\Proj\leetcode\MaxlenSubStr\obj\Debug\netcoreapp2.0\MaxlenSubStr.AssemblyInfo.cs
+D:\Proj\leetcode\MaxlenSubStr\bin\Debug\netcoreapp2.0\MaxlenSubStr.deps.json
+D:\Proj\leetcode\MaxlenSubStr\bin\Debug\netcoreapp2.0\MaxlenSubStr.runtimeconfig.json
+D:\Proj\leetcode\MaxlenSubStr\bin\Debug\netcoreapp2.0\MaxlenSubStr.runtimeconfig.dev.json
+D:\Proj\leetcode\MaxlenSubStr\bin\Debug\netcoreapp2.0\MaxlenSubStr.dll
+D:\Proj\leetcode\MaxlenSubStr\bin\Debug\netcoreapp2.0\MaxlenSubStr.pdb
+D:\Proj\leetcode\MaxlenSubStr\obj\Debug\netcoreapp2.0\MaxlenSubStr.dll
+D:\Proj\leetcode\MaxlenSubStr\obj\Debug\netcoreapp2.0\MaxlenSubStr.pdb
