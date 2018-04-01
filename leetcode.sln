@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPairSum_561", "ArrayPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeAdd_598", "RangeAdd_598\RangeAdd_598.csproj", "{F13B2370-270A-425A-B758-925BFBE8AA05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumDistinct_115", "NumDistinct_115\NumDistinct_115.csproj", "{1B20D1A1-0CDB-4965-B05F-278F7FEA22A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountBinSubStrs", "CountBinSubStrs\CountBinSubStrs.csproj", "{52C11B1E-30E7-475B-965F-EAB9F069F70C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{F13B2370-270A-425A-B758-925BFBE8AA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F13B2370-270A-425A-B758-925BFBE8AA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F13B2370-270A-425A-B758-925BFBE8AA05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B20D1A1-0CDB-4965-B05F-278F7FEA22A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B20D1A1-0CDB-4965-B05F-278F7FEA22A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B20D1A1-0CDB-4965-B05F-278F7FEA22A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B20D1A1-0CDB-4965-B05F-278F7FEA22A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C11B1E-30E7-475B-965F-EAB9F069F70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C11B1E-30E7-475B-965F-EAB9F069F70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C11B1E-30E7-475B-965F-EAB9F069F70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C11B1E-30E7-475B-965F-EAB9F069F70C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
