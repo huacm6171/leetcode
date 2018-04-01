@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcode", "leetcode\leetco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPairSum_561", "ArrayPairSum_561\ArrayPairSum_561.csproj", "{5C443D3F-B115-4EB5-B6B6-6EC95F00900E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeAdd_598", "RangeAdd_598\RangeAdd_598.csproj", "{F13B2370-270A-425A-B758-925BFBE8AA05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5C443D3F-B115-4EB5-B6B6-6EC95F00900E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C443D3F-B115-4EB5-B6B6-6EC95F00900E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C443D3F-B115-4EB5-B6B6-6EC95F00900E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F13B2370-270A-425A-B758-925BFBE8AA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13B2370-270A-425A-B758-925BFBE8AA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13B2370-270A-425A-B758-925BFBE8AA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13B2370-270A-425A-B758-925BFBE8AA05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
