@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumDistinct_115", "NumDisti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountBinSubStrs", "CountBinSubStrs\CountBinSubStrs.csproj", "{52C11B1E-30E7-475B-965F-EAB9F069F70C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinSubArrayLen", "MinSubArrayLen\MinSubArrayLen.csproj", "{1E2A75DC-2D05-44DE-953A-8AFA385F0582}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{52C11B1E-30E7-475B-965F-EAB9F069F70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52C11B1E-30E7-475B-965F-EAB9F069F70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52C11B1E-30E7-475B-965F-EAB9F069F70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2A75DC-2D05-44DE-953A-8AFA385F0582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2A75DC-2D05-44DE-953A-8AFA385F0582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2A75DC-2D05-44DE-953A-8AFA385F0582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2A75DC-2D05-44DE-953A-8AFA385F0582}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
