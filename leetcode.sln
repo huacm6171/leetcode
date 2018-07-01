@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinSubArrayLen", "MinSubArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "searchMatrix", "searchMatrix\searchMatrix.csproj", "{9E84940D-C5E1-4EB6-91B4-095D01AB783F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcodeTests", "leetcodeTests\leetcodeTests.csproj", "{EDFD900C-9510-4794-B8A1-922896144B6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{9E84940D-C5E1-4EB6-91B4-095D01AB783F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E84940D-C5E1-4EB6-91B4-095D01AB783F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E84940D-C5E1-4EB6-91B4-095D01AB783F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFD900C-9510-4794-B8A1-922896144B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFD900C-9510-4794-B8A1-922896144B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFD900C-9510-4794-B8A1-922896144B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFD900C-9510-4794-B8A1-922896144B6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
