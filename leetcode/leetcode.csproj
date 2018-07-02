@@ -48,6 +48,8 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Solutions\ContainsDuplicate.cs" />
+    <Compile Include="Solutions\Intersect.cs" />
+    <Compile Include="Solutions\PlusOne.cs" />
     <Compile Include="Solutions\RotateArray.cs" />
     <Compile Include="Solutions\SingleNum.cs" />
   </ItemGroup>
