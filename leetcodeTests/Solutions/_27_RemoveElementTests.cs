@@ -9,15 +9,15 @@ using System.Threading.Tasks;
 namespace leetcode.Solutions.Tests
 {
     [TestClass()]
-    public class RotateArrayTests
+    public class _27_RemoveElementTests
     {
         [TestMethod()]
-        public void SolutionsOneTest()
+        public void RemoveElementTest()
         {
-            int[] nums = new int[] { 1, 2, 3, 4, 5, 6, 7 };
-            int k = 3;
-            RotateArray myRa = new RotateArray();
-            myRa.SolutionsOne(nums, k);
+            int[] nums = new int[] { 1 };
+            int val = 1;
+            _27_RemoveElement re = new _27_RemoveElement();
+            re.RemoveElement(nums, val);
             Assert.Fail();
         }
     }

@@ -9,15 +9,14 @@ using System.Threading.Tasks;
 namespace leetcode.Solutions.Tests
 {
     [TestClass()]
-    public class RotateArrayTests
+    public class MoveZerosTests
     {
         [TestMethod()]
-        public void SolutionsOneTest()
+        public void MoveZerosSolveTest()
         {
-            int[] nums = new int[] { 1, 2, 3, 4, 5, 6, 7 };
-            int k = 3;
-            RotateArray myRa = new RotateArray();
-            myRa.SolutionsOne(nums, k);
+            MoveZeros myMZ = new MoveZeros();
+            int[] nums = new int[] {1, 2, 3, 12};
+            myMZ.MoveZerosSolve(nums);
             Assert.Fail();
         }
     }

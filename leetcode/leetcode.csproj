@@ -43,15 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Solutions\27_RemoveElement.cs" />
     <Compile Include="Solutions\501FindModes.cs" />
     <Compile Include="Solutions\541ReverseStr.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Solutions\ContainsDuplicate.cs" />
     <Compile Include="Solutions\Intersect.cs" />
+    <Compile Include="Solutions\MoveZeros.cs" />
     <Compile Include="Solutions\PlusOne.cs" />
     <Compile Include="Solutions\RotateArray.cs" />
     <Compile Include="Solutions\SingleNum.cs" />
+    <Compile Include="Solutions\TwoSum.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

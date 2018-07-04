@@ -54,8 +54,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Solutions\ContainsDuplicateTests.cs" />
     <Compile Include="Solutions\IntersectTests.cs" />
+    <Compile Include="Solutions\MoveZerosTests.cs" />
     <Compile Include="Solutions\RotateArrayTests.cs" />
     <Compile Include="Solutions\TreeNodeTests.cs" />
+    <Compile Include="Solutions\_27_RemoveElementTests.cs" />
     <Compile Include="Solutions\_541ReverseStrTests.cs" />
   </ItemGroup>
   <ItemGroup>
