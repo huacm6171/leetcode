@@ -53,6 +53,7 @@
     <Compile Include="Solutions\IsValidSudoku.cs" />
     <Compile Include="Solutions\MoveZeros.cs" />
     <Compile Include="Solutions\PlusOne.cs" />
+    <Compile Include="Solutions\ReverseString.cs" />
     <Compile Include="Solutions\RotateArray.cs" />
     <Compile Include="Solutions\RotateMatrix.cs" />
     <Compile Include="Solutions\SingleNum.cs" />
