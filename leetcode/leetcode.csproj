@@ -48,19 +48,34 @@
     <Compile Include="Solutions\541ReverseStr.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Solutions\ContainsDuplicate.cs" />
-    <Compile Include="Solutions\Intersect.cs" />
-    <Compile Include="Solutions\IsValidSudoku.cs" />
-    <Compile Include="Solutions\MoveZeros.cs" />
-    <Compile Include="Solutions\PlusOne.cs" />
-    <Compile Include="Solutions\ReverseString.cs" />
-    <Compile Include="Solutions\RotateArray.cs" />
-    <Compile Include="Solutions\RotateMatrix.cs" />
-    <Compile Include="Solutions\SingleNum.cs" />
-    <Compile Include="Solutions\TwoSum.cs" />
+    <Compile Include="Solutions\1_Array\ContainsDuplicate.cs" />
+    <Compile Include="Solutions\2_String\FirstUniqChar.cs" />
+    <Compile Include="Solutions\1_Array\Intersect.cs" />
+    <Compile Include="Solutions\2_String\ISAnagram.cs" />
+    <Compile Include="Solutions\2_String\IsPalindrome.cs" />
+    <Compile Include="Solutions\1_Array\IsValidSudoku.cs" />
+    <Compile Include="Solutions\1_Array\MoveZeros.cs" />
+    <Compile Include="Solutions\2_String\MyAtoi.cs" />
+    <Compile Include="Solutions\1_Array\PlusOne.cs" />
+    <Compile Include="Solutions\2_String\ReverseInt.cs" />
+    <Compile Include="Solutions\2_String\ReverseString.cs" />
+    <Compile Include="Solutions\1_Array\RotateArray.cs" />
+    <Compile Include="Solutions\1_Array\RotateMatrix.cs" />
+    <Compile Include="Solutions\1_Array\SingleNum.cs" />
+    <Compile Include="Solutions\1_Array\TwoSum.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="OtherQuestions\" />
+    <Folder Include="Solutions\3_Link\" />
+    <Folder Include="Solutions\4_Tree\" />
+    <Folder Include="Solutions\5_SortAndSearch\" />
+    <Folder Include="Solutions\6_Dynamic\" />
+    <Folder Include="Solutions\7_Design\" />
+    <Folder Include="Solutions\8_Math\" />
+    <Folder Include="Solutions\9_Others\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
