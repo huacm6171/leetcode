@@ -52,6 +52,9 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Solutions\2_String\CountAndSayTests.cs" />
+    <Compile Include="Solutions\2_String\LongestCommonPreTests.cs" />
+    <Compile Include="Solutions\2_String\myStrStrTests.cs" />
     <Compile Include="Solutions\ContainsDuplicateTests.cs" />
     <Compile Include="Solutions\IntersectTests.cs" />
     <Compile Include="Solutions\IsPalindromeTests.cs" />

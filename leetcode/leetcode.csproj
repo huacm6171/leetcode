@@ -44,6 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Solutions\27_RemoveElement.cs" />
+    <Compile Include="Solutions\2_String\CountAndSay.cs" />
+    <Compile Include="Solutions\2_String\LongestCommonPre.cs" />
+    <Compile Include="Solutions\2_String\myStrStr.cs" />
     <Compile Include="Solutions\501FindModes.cs" />
     <Compile Include="Solutions\541ReverseStr.cs" />
     <Compile Include="Program.cs" />
