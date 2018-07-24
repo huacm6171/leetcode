@@ -43,10 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataStruct.cs" />
     <Compile Include="Solutions\27_RemoveElement.cs" />
     <Compile Include="Solutions\2_String\CountAndSay.cs" />
     <Compile Include="Solutions\2_String\LongestCommonPre.cs" />
     <Compile Include="Solutions\2_String\myStrStr.cs" />
+    <Compile Include="Solutions\3_Link\DeleteNode.cs" />
+    <Compile Include="Solutions\3_Link\HasCycle.cs" />
+    <Compile Include="Solutions\3_Link\IsPalindrome.cs" />
+    <Compile Include="Solutions\3_Link\MergeTwoLists.cs" />
+    <Compile Include="Solutions\3_Link\RemoveNthFromEnd.cs" />
+    <Compile Include="Solutions\3_Link\ReverseList.cs" />
+    <Compile Include="Solutions\4_Tree\BST.cs" />
+    <Compile Include="Solutions\4_Tree\MaxDepth.cs" />
     <Compile Include="Solutions\501FindModes.cs" />
     <Compile Include="Solutions\541ReverseStr.cs" />
     <Compile Include="Program.cs" />
@@ -66,18 +75,21 @@
     <Compile Include="Solutions\1_Array\RotateMatrix.cs" />
     <Compile Include="Solutions\1_Array\SingleNum.cs" />
     <Compile Include="Solutions\1_Array\TwoSum.cs" />
+    <Compile Include="Solutions\5_SortAndSearch\BadVersion.cs" />
+    <Compile Include="Solutions\5_SortAndSearch\MergeArray.cs" />
+    <Compile Include="Solutions\6_Dynamic\ClimbStairs.cs" />
+    <Compile Include="Solutions\7_Design\MinStack.cs" />
+    <Compile Include="Solutions\7_Design\ShuffleArray.cs" />
+    <Compile Include="Solutions\8_Math\CountPrimes.cs" />
+    <Compile Include="Solutions\8_Math\FizzAndBuzz.cs" />
+    <Compile Include="Solutions\8_Math\PowerOfThree.cs" />
+    <Compile Include="Solutions\8_Math\RomanToInt.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="OtherQuestions\" />
-    <Folder Include="Solutions\3_Link\" />
-    <Folder Include="Solutions\4_Tree\" />
-    <Folder Include="Solutions\5_SortAndSearch\" />
-    <Folder Include="Solutions\6_Dynamic\" />
-    <Folder Include="Solutions\7_Design\" />
-    <Folder Include="Solutions\8_Math\" />
     <Folder Include="Solutions\9_Others\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace leetcode
 {
-    public class TreeNode
-    {
-        public TreeNode left;
-        public TreeNode right;
-        public int val;
-        public  TreeNode(int x) { val = x; }
-    }
+
     public class _501FindModes
     {
         public Dictionary<int, int> resDic = new Dictionary<int, int>();

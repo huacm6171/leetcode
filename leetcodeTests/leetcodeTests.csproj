@@ -55,6 +55,10 @@
     <Compile Include="Solutions\2_String\CountAndSayTests.cs" />
     <Compile Include="Solutions\2_String\LongestCommonPreTests.cs" />
     <Compile Include="Solutions\2_String\myStrStrTests.cs" />
+    <Compile Include="Solutions\3_Link\RemoveNthFromEndTests.cs" />
+    <Compile Include="Solutions\3_Link\ReverseListTests.cs" />
+    <Compile Include="Solutions\4_Tree\MaxDepthTests.cs" />
+    <Compile Include="Solutions\5_SortAndSearch\MergeArrayTests.cs" />
     <Compile Include="Solutions\ContainsDuplicateTests.cs" />
     <Compile Include="Solutions\IntersectTests.cs" />
     <Compile Include="Solutions\IsPalindromeTests.cs" />
